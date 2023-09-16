@@ -5,6 +5,10 @@
 
 ## ToiGet API
 
+O objetivo da API é cadastrar banheiros, incluindo seu horário de funcionamento. 
+
+A documentação da API (padrão Swagger) pode ser consultada em [http://localhost:5000/](http://localhost:5000/).
+
 ## Como executar 
 
 
